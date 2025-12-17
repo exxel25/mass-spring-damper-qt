@@ -15,6 +15,3 @@ calculation and real-time graphical visualization.
 2. Build the project
 3. Run the simulation
 
-## Purpose
-This project was developed as a programming assignment for an introductory
-engineering and physics course.
